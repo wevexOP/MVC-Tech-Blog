@@ -1,6 +1,8 @@
 ## MVC Tech Blog
 
-Welcome to the MVC Tech Blog, or Mini Blog for short! This application is awesome and ready to use for anyone who wants to enjoy its simple yet awesome features! The purpose of making this appplication was to be bale to showcase a blog website that could be used and accessed by the public. Try that application yourself here!---->https://mini-blog-dominic.herokuapp.com/
+Welcome to the MVC Tech Blog, or Mini Blog for short! This application is awesome and ready to use for anyone who wants to enjoy its simple yet awesome features! The purpose of making this appplication was to be bale to showcase a blog website that could be used and accessed by the public. 
+
+Try that application yourself here!---->https://mini-blog-dominic.herokuapp.com/
 
 ## Table of Contents
 
