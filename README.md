@@ -15,13 +15,14 @@ Try the application yourself here!---->https://mini-blog-dominic.herokuapp.com/
 
 ## Description:
 
-This project was created to host the backend functions of what a common social network platform interaction function has integrated into its software. This code is capable of creating new users and allowing these users to share thoughts as posts, add reactions to these thoughts, creating friends/adding friends and posting thought reactions to friends posts. The program is also capable of get requesting all of this data by individual topic or by user iD as well as deleting. 
+Open the application and explore its simple design easy to use formatting. The Mini Blog is a great place for almost all forms of text. So, it can be used for note taking, to story sharing, and even for news events. 
 
 ## Technology:
 
 Project is created with:
 
 - Javascript
+- Handlebars
 - Node.js
 - Express.js
 - Bulma
@@ -45,10 +46,6 @@ After installing npm packages, the application will be invoked by using the foll
 ```
 npm start
 ```
-
-#### Video Demo
-
-[Click me to see the demo video!](----)
 
 #### Screenshots
 
